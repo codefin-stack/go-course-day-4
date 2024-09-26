@@ -1,0 +1,15 @@
+mode: set
+hexagonal/internal/adapters/rest/user_handler.go:17.47,20.16 3 1
+hexagonal/internal/adapters/rest/user_handler.go:20.16,23.3 2 1
+hexagonal/internal/adapters/rest/user_handler.go:24.2,25.16 2 1
+hexagonal/internal/adapters/rest/user_handler.go:25.16,28.3 2 1
+hexagonal/internal/adapters/rest/user_handler.go:29.2,29.29 1 1
+hexagonal/internal/adapters/rest/user_handler.go:32.50,34.48 2 1
+hexagonal/internal/adapters/rest/user_handler.go:34.48,37.3 2 1
+hexagonal/internal/adapters/rest/user_handler.go:38.2,38.54 1 1
+hexagonal/internal/adapters/rest/user_handler.go:38.54,41.3 2 1
+hexagonal/internal/adapters/rest/user_handler.go:42.2,42.34 1 1
+hexagonal/internal/adapters/rest/user_handler.go:45.71,47.2 1 1
+hexagonal/internal/application/user_service.go:12.65,14.2 1 1
+hexagonal/internal/application/user_service.go:17.57,19.2 1 1
+hexagonal/internal/application/user_service.go:21.62,23.2 1 1
